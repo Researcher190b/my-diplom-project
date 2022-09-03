@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  background-color: rgb(255, 255, 255);
+  font-family: Verdana, sans-serif;
+}
+
+nav ul {
+  display: flex;
+  margin: 0 -10px;
+  padding: 10px;
+}
+
+nav li {
+  margin: 0 10px;
+}
+
+.push-right {
+  margin-left: auto;
+}
